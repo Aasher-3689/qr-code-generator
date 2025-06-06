@@ -3,7 +3,7 @@ A simple GUI QR code generator built with Python's Tkinter and the qrcode librar
 - [Prerequisites](#prerequisites)
 - [Download and Run](#download-and-run)
 - [Understanding GUI](#understanding-gui)
-- [Author and License]([#auhor-and-license)
+- [Author and License]([#author-and-license)
 
 ## Prerequisites:
 
